@@ -53,7 +53,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical">
 </p>
 
 ---
@@ -63,9 +62,6 @@
 <p>
   <a href="https://www.linkedin.com/in/vishwa-v-525153296/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:vvishwa2526@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href= https://leetcode.com/problemset/>
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
