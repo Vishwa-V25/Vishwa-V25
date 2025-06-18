@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="60%">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="40%">
 </p>
 
 <h1 align="center">Hey there! 👋 I'm <span style="color:#F59E0B;">Vishwa</span></h1>
