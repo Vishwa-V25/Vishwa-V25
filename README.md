@@ -1,40 +1,32 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="40%">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" height="290" alt="Coding GIF"/>
 </p>
 
-<h1 align="center">Hey there! 👋 I'm <span style="color:#F59E0B;">Vishwa</span></h1>
+# Hey there! I'm **Vishwa** 🧑‍💻 (Full Stack Java Developer)
 
-<p align="center">
-  🎓 BTech-IT @ <strong>St. Joseph's Institute of Technology</strong> <br/>
-  💻 Passionate about Coding | DSA | Hackathons | Web Dev <br/>
-  🔍 Always curious to learn and build cool tech stuff!
-</p>
+🎓 3rd-year IT student @ **St. Joseph's Institute of Technology**  
+💻 Full Stack Java Developer | Strong in DSA & Backend  
+💡 Passionate about Web Development, AI & impactful solutions  
+🧠 Exploring System Design, DBMS & Real-world projects  
+🤝 Open to collaborations on meaningful projects & hackathons
+
+---
+
+## 💼 About Me
+
+- 🚀 Aspiring Software Developer focused on **Full Stack Java Development**
+- 🌐 Currently building a **Healthcare AI Chatbot** with real-time monitoring
+- 📚 Lifelong learner exploring **Cloud Computing, REST APIs**, and **Microservices**
+- 🛠️ Love turning complex problems into clean, efficient code
+- 🎯 Goal: To secure a role in a product-based company with an impactful mission
 
 ---
 
 ## 🔧 Tech Toolbox
 
-### 🖥️ Programming
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-### 🌐 Web Development
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### 🛢️ Data & DSA
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Structures-ff69b4?style=for-the-badge&logo=matrix&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Algorithms-8A2BE2?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</p>
+| 👨‍💻 Programming | 🌐 Web Development | 🔙 Backend & APIs | 🗄️ Database | 🧠 CS Fundamentals | 🧰 Tools |
+|------------------|--------------------|-------------------|-------------|---------------------|----------|
+| ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) <br> ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) <br> ![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/CSS3-2965f1?style=flat-square&logo=css3&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) <br> ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white) <br> ![REST](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=api&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) <br> ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) | ![DSA](https://img.shields.io/badge/DSA-8A2BE2?style=flat-square&logo=matrix&logoColor=white) <br> ![DBMS](https://img.shields.io/badge/DBMS-orange?style=flat-square) <br> ![OOP](https://img.shields.io/badge/OOP-blueviolet?style=flat-square) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) <br> ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) <br> ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
 ---
 
@@ -45,39 +37,47 @@
 - 🥉 200+ Bronze Medals on **SkillRack**  
 - 🥇 **1st Prize** - DecodeX @ Vels University  
 - 🥈 **2nd Prize** - Math Hackathon  
-- 🥉 **3rd Prize** - AI Arena, National Level Symposium  
 - 💼 Offer Letter from **Codesoft** (Java Role)  
 - 🔥 Participating in **160 Days Challenge** on GFG  
 
+
 ---
 
-## 📊 My Stats
+## 📈 GitHub Stats
 
-### 🐱 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&border_radius=10">
-  
-</p>
+![Vishwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishwa-V25&show_icons=true&theme=radical)
 
-### 🧠 LeetCode Progress
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/vvishwa2526?theme=dark&font=Baloo+Bhai&ext=heatmap">
-</p>
+
+
+## 👨‍💻 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/vvishwa2526?theme=dark&ext=heatmap)
+
+---
+
+## 💡 Featured Projects
+
+### 🩺 MedBot – AI Healthcare Assistant  
+Full stack chatbot using React, Node.js, MongoDB, Google Translate API, and voice I/O  
+👉 Focus: Patient monitoring, multilingual support, and doctor dashboard analytics
+
+### ⚙️ TaskFlow – Personal To-do App  
+A sleek productivity app using Spring Boot, Thymeleaf, and MySQL
 
 ---
 
 ## 🔗 Let's Connect!
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vishwa-v-525153296/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://leetcode.com/u/vvishwa2526/">
-    <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=black">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwa-v-525153296/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vvishwa2526/)
 
-<p align="center">
-  🚀 Let's connect and build something awesome together!
-</p>
+---
+
+🚀 Let's collaborate and build something amazing!
+
+
+
+
+
+
 
